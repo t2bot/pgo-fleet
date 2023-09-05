@@ -2,8 +2,6 @@
 
 See the parent [README](../README.md) for usage.
 
-A health endpoint which always returns `200 OK` is available at `/healthz`.
-
 ## API
 
 All requests are authenticated with an `Authorization` header containing a `Bearer` token.

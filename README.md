@@ -73,6 +73,8 @@ for more details on the API.
 
 A health endpoint is exposed at `/healthz`. It will return `200 OK` with body `OK`.
 
+Pre-built Docker images are available [here](https://github.com/t2bot/pgo-fleet/pkgs/container/pgo-fleet).
+
 ## Usage: Embedded Profiler
 
 See [`./embedded/README.md`](./embedded/README.md) for usage.
